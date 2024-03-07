@@ -1,1 +1,1 @@
-Making of simpple Number Game program using java language.
+Making of simple Number Game program using java language.
